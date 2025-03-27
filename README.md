@@ -1,3 +1,9 @@
+Dumbass i may look like one of those Harvard dumbasses 3 register (can u fail p 0 after registering and count?) p 0 then dumbass only 1 passed p1, but
+
+![image](https://github.com/user-attachments/assets/7705c401-841c-413e-839e-5f45350b625c)
+
+
+
 ![Codebreaker Challenge 2020 Solutions Thumbnail](images/thumbnail.png)
 
 These are my solutions to the 2020 [NSA Codebreaker Challenge](https://codebreaker.ltsnet.net). This year they took a phased approach, releasing a second set of challenges about a month before the end of the competition. As the tasks ramp up in difficulty, the write-ups become less of a walkthrough and more of an explanation. I spent many hours on some of these problems and found it difficult to compress my process into something digestable. However, all of my code is available and you can ask any questions you might have in [this repo's Discussion page](https://github.com/luker983/nsa-codebreaker-2020/discussions). 
